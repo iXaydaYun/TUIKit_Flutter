@@ -1,3 +1,5 @@
+English | [简体中文](README.zh-CN.md)
+
 # TUIKit Flutter
 
 This document introduces **how to quickly run the TUIKit Demo.**
